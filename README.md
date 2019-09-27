@@ -1,4 +1,4 @@
-# guess_the_rgb_game
+# guess-the-rgb
 
 A simple color guessing game built using HTML, CSS and Javascript.
 
